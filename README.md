@@ -14,7 +14,7 @@ I'm a Master of Computer Science student at **UC Irvine** (graduating in Decembe
 - **Cloud & infra:** AWS (EC2, S3, SageMaker, Bedrock) · GCP (Cloud Run) · Docker · Linux · GitHub Actions
 - **Frameworks & data:** FastAPI · Node.js · React · Next.js · React Native · PostgreSQL
 
-🤝 Let's talk about computer vision, LLM systems, or anything about basketball, football, or weightlifting!
+🤝 Let's talk about computer vision, LLM systems, or anything about F1, basketball, football, or weightlifting!
 - 🌐 [Website](https://wood-o7.vercel.app/giuseppi)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giuseppipelayo/)
 - 📫 [Email](mailto:giuseppipelayo@gmail.com)
