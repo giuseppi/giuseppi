@@ -1,6 +1,6 @@
 # Hey, I'm Giuseppi 👋
 
-I'm a Master of Computer Science student at **UC Irvine** (graduating December 2026), and I like building AI systems that work outside the notebook, in real apps, used by real people.
+I'm a Master of Computer Science student at **UC Irvine** (graduating in December 2026). I like building things with AI that actually help people.
 
 🛠️ What I'm up to
 - **AI/ML Engineer @ [Human Proximity](https://beeseye-web.vercel.app/)**: I'm building **BeesEye**, an LLM-powered matchmaking app for live networking events. Guests scan a QR code, share a bit about themselves, and get AI-ranked people to meet. We've already run it at a 100+ person event @ UCI!
